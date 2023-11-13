@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Beskorovajinj from Ukraine @andrewbes
+- 👋 Hi, I’m Andrii Bezkorovainyi from Ukraine @andrewbes
 - 👀 I’m interested in C++, Swift and Python
 - 💞️ I’m looking to collaborate on iOS development
 - 📫 How to reach me https://www.linkedin.com/in/andrew-bes/
