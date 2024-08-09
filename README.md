@@ -15,7 +15,7 @@ You can reach out to me through my [LinkedIn profile](https://www.linkedin.com/i
 
 ## My demo repositories
 - [Swift](https://github.com/andrewbes/Swift)
-- [C++ QT](https://github.com/andrewbes/CPP)
+- [C++ QT](https://github.com/andrewbes/CPP_QT)
 - [Java](https://github.com/andrewbes/Java)
 - [NodeJS](https://github.com/andrewbes/NodeJS)
 
